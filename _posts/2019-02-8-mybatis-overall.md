@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  mybatis--整体架构
+title:  mybatis--架构
 categories: [mybatis]
 tags: [mybatis]
 ---
