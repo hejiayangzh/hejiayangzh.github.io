@@ -1,19 +1,19 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
-- name: lost and play
+- name: lost
   link: https://github.com/
   date: Jun 2016 - Dec 2017
-  job: Java Developer
+  job: lost and play
 
 - name: love
   link: https://github.com/
   date: Dec 2017 - Aug 2018
-  job: Java Developer
+  job: fall in love
 
 
 
-- name: self-study
+- name: @self-study
   link: https://github.com/
   date: Aug 2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Java Developer
+  job: JavaEE Developer
