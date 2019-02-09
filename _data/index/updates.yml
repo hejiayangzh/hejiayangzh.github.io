@@ -1,15 +1,6 @@
 # updates data
-- date: 2017-10-29
+- date: 2019-2-9
   description:
-    - desc: 适配原有文章
-    - desc: 统一增加转载说明
-
-- date: 2017-10-28
-  description:
-    - desc: Add Updates page
-
-- date: 2017-10-27
-  description:
-    - desc: Initialize Blog
-    - desc: Modify basic configuration
+    - desc: 开始更新啦！
+    - desc: 持续更新每一天
 
