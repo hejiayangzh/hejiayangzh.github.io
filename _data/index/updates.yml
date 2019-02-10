@@ -1,25 +1,5 @@
-updates data
-# - date: 2019-02-04
-#   description:
-#     - desc: 开始更新啦！
-#     - desc: 持续更新每一天
-#     - desc: 记录每一天的进步与懊悔
-
-# - date: 2019-02-01
-#   description:
-#     - desc: 基本上完工
-
-# - date: 2019-01-16
-#   description:
-#     - desc: 开始构建
-#     - desc: 毫无头绪
-
-
-
-
-
-
-    - date: 2017-10-29
+# updates data
+- date: 2017-10-29
   description:
     - desc: 适配原有文章
     - desc: 统一增加转载说明
@@ -32,9 +12,4 @@ updates data
   description:
     - desc: Initialize Blog
     - desc: Modify basic configuration
-
-
-
-
-
 
