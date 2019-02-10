@@ -13,7 +13,7 @@
 
 
 
-- name: @self-study
+- name: self-study
   link: https://github.com/
   date: Aug 2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
   job: JavaEE Developer
