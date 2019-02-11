@@ -10,12 +10,10 @@ tags: [Linux]
 
 - 安装apache+mysql+php
   - yum install -y httpd php php-fpm mysql mysql-server php-mysql
-  - 反射模块，封装了java原生的反射操作，提供简介易用的api，方便使用。
 
 - 启动相应服务
 
   - service httpd start service mysqld start service php-fpm start
-
 - 配置数据库mysql
 
   - 简单配置密码 mysqladmin -u root password "XXXXXXXX"
