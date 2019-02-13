@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Linux下Java&花生壳DDNS
+title:  Linux下Java&DDNS
 categories: [Linux]
 tags: [Linux]
 ---
