@@ -5,7 +5,7 @@
 #
 title: Gthree
 email: hznaug6211@163.com
-description: G_three's blog,powered by jekyll
+description: Gthree's blog,powered by jekyll
 url: https://hejiayangzh.github.io # the base hostname & protocol for your site
 keywords: ["Programming", "Java", "Android","Blog"]
 
@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: G_three
+  name: Gthree
   avatar: mylogo.png
   job: "JakartaEE & Android Developer"
   bio: "一位向虎山的JakartaEE, Android 开发者"
